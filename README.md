@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Github pages with Angular 
 
-npm i angular-cli-ghpages
+npm i angular-cli-ghpages  
 ng add angular-cli-ghpages
 
 Change appName
