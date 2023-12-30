@@ -36,4 +36,6 @@ ng add angular-cli-ghpages
 Change appName
 ng deploy --base-href=/appName/
 
-Change index.html base href
+Change index.html base href to appName  
+
+npx angular-cli-ghpages --dir=docs/browser
